@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjiMan21, named Alex.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Web-Development
+- 🌱 I’m currently learning ... QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://t.me/Benjiman21 on Telegram
 
